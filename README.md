@@ -1,2 +1,1 @@
 win_combinations
-board = [" "," "," "," "," "," "," "," "," "]
